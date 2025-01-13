@@ -1,6 +1,6 @@
 # Farmers-Market-Data-Curation
 
-## Executive Summary
+## Executive Summary 
 Farmers' markets are an important part of building community, ethically sourcing food,
 and creating a culture around sustainable habits. In this project, I worked to source
 data for farmers' markets in North Carolina. Due to their impact on the community,
